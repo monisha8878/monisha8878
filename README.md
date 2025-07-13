@@ -6,25 +6,25 @@
 
 ---
 
-### 🧠 About Me
-
-- 🎓 I'm a student with a strong interest in programming and computer science.
-- 📘 Currently focused on building my fundamentals in **C++**.
-- 🔍 Exploring **Data Structures and Algorithms** one problem at a time.
-- 🧩 Enjoy turning logic into code and learning how things work under the hood.
+###  About Me
+-  I'm currently pursuing a Bachelor's in Electrical Engineering at IIT Delhi.
+-  I have a strong interest in programming and computer science.
+-  Currently focused on building my fundamentals in **C++**.
+-  Exploring **Data Structures and Algorithms** one problem at a time.
+-  Enjoy turning logic into code and learning how things work under the hood.
 
 ---
 
-### 🚧 Projects & Repositories
+###  Projects & Repositories
 
 Here are some of the things I'm working on:
 
-- 📚 [C++ Fundamentals](https://github.com/monisha8878/Projects-CPP.git): Beginner-friendly codebase covering everything from variables to OOP.
-- 🧠 *Coming Soon*: DSA problem repository with topic-wise solutions and notes.
+-  [C++ Fundamentals](https://github.com/monisha8878/Projects-CPP.git): Beginner-friendly codebase covering everything from variables to OOP.
+-  *Coming Soon*: DSA problem repository with topic-wise solutions and notes.
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -32,7 +32,7 @@ Here are some of the things I'm working on:
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monisha8878&show_icons=true&theme=tokyonight" />
