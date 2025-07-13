@@ -1,4 +1,4 @@
- <h1 align = "center" > Hi there, I'm Monisha. 👋</h1>
+ <h1 align = "center" style="color:#ff3366;" > Hi there, I'm Monisha ✨</h1>
 
 <p align="center">
    C++ Learner |  Aspiring Problem Solver |  DSA Beginner
