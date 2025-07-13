@@ -1,5 +1,5 @@
  <h1 align="center">
-  <span style="color:#ff3366;">Hi there, I am Monisha </span>
+  <span style="color:#FF4C8B;">Hi there, I am Monisha </span>
 </h1>
 
 <p align="center">
