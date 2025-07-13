@@ -1,7 +1,7 @@
  <h1 align = "center" > Hi there, I'm Monisha. 👋</h1>
 
 <p align="center">
-  💻 C++ Learner | 🚀 Aspiring Problem Solver | 🌱 DSA Beginner
+   C++ Learner |  Aspiring Problem Solver |  DSA Beginner
 </p>
 
 ---
@@ -26,9 +26,9 @@ Here are some of the things I'm working on:
 
 ### 🛠️ Languages & Tools
 
-![C++]
-![Git]
-![VS Code]
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
