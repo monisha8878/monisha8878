@@ -35,8 +35,8 @@ Here are some of the things I'm working on:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monisha8878&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisha8878&layout=compact&theme=tokyonight" />
 </p>
 
 
