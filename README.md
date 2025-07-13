@@ -1,6 +1,5 @@
-<p align="center">
-  <img src=banner.png alt="Hi I am Monisha" width="600" />
-</p>
+<h1 align="center">Hi there, I'm Monisha 👋</h1>
+
 
 <p align="center">
    C++ Learner |  Aspiring Problem Solver |  DSA Beginner
