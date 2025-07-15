@@ -18,7 +18,7 @@
 Here are some of the things I'm working on:
 
 -  [C++ Fundamentals](https://github.com/monisha8878/Projects-CPP.git): Beginner-friendly codebase covering everything from variables to OOP.
--  [My Portfolio] (https://monisha8878.github.io/My-Portfolio/) : A Portfolio site I made  to showcase my projects and work . (Tried for the first time to actually make and deploy the site completely from scratch.) 
+-  [My Portfolio](https://monisha8878.github.io/My-Portfolio/) : A Portfolio site I made  to showcase my projects and work . (Tried for the first time to actually make and deploy the site completely from scratch.) 
 -  *Coming Soon*: DSA problem repository with topic-wise solutions and notes.
 
 ---
