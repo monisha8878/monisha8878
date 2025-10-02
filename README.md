@@ -18,7 +18,7 @@
 Here are some of the things I'm working on:
 
 -  [C++ Fundamentals](https://github.com/monisha8878/Projects-CPP.git): Beginner-friendly codebase covering everything from variables to OOP.
--  [My Portfolio](https://monisha8878.github.io/My-Portfolio/) : A Portfolio site I made  to showcase my projects and work . (Tried for the first time to actually make and deploy the site completely from scratch.
+
 -  [Project- Version Control System](https://github.com/monisha8878/Project-Version-Control-System-.git): A project in which I tried to make a model of a version control system from scratch. I used fundamental data structures like map, heap, trees to create this.
 
 
