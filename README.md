@@ -5,11 +5,7 @@
 ---
 
 ###  About Me
--  I'm currently pursuing a Bachelor's in Electrical Engineering at IIT Delhi.
--  I have a strong interest in programming and computer science.
--  Currently focused on building my fundamentals in **C++**.
--  Exploring **Data Structures and Algorithms** one problem at a time.
--  Enjoy turning logic into code and learning how things work under the hood.
+  I'm currently pursuing a Bachelor's in Electrical Engineering at IIT Delhi. I have a strong interest in programming and computer science and I enjoy turning logic into code and learning how things work under the hood.
 
 ---
 
