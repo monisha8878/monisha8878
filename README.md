@@ -6,8 +6,11 @@
 
 ###  About Me
 
- I am an Electrical Engineering student at IIT Delhi, learning my way around programming and tech.
-I enjoy building things, breaking them (sometimes🤧), and understanding what’s really happening behind the scenes✨. Here are all the projects as I learn various aspects of Tech- some which I am proud of , some which need major refinement, basically all the stuff I have learnt and am working on right now!
+I’m an Electrical Engineering student at IIT Delhi, learning my way around programming and tech.
+ 
+I enjoy building things, breaking them (sometimes 🤧), and understanding what’s really happening behind the scenes ✨
+
+Here are my projects — some I’m proud of, and some that need major refinement - basically everything I’ve learned so far!
 
 ---
 
@@ -16,11 +19,15 @@ I enjoy building things, breaking them (sometimes🤧), and understanding what�
 Here are some of my projects and repositories- 
 
 -  [C++ Fundamentals](https://github.com/monisha8878/Projects-CPP.git): Beginner-friendly codebase covering everything from variables to OOP.
-
+  
 -  [Project- Version Control System](https://github.com/monisha8878/Project-Version-Control-System-.git): A project in which I tried to make a model of a version control system from scratch. I used fundamental data structures like map, heap, trees to create this.
--  [Project- Social Network](https://github.com/monisha8878/Social-Network-.git) : A command-line based social network model that supports user creation, post management, friend connections, friend suggestions, and degree-of-separation queries. I have implemented this using graphs to represent the social network and AVL trees to efficiently manage user posts, focusing on data structures and algorithmic design. 
--[My portfolio] (https://github.com/monisha8878/My-Portfolio.git) : My personal portfolio website where I share my projects, interests, and journey in tech.
-Built with HTML and CSS and continuously evolving as I learn frontend development. [Live site](https://monisha8878.github.io/My-Portfolio/) : Check out the website here!
+  
+-  [Project- Social Network](https://github.com/monisha8878/Social-Network-.git) : A command-line based social network model that supports user creation, post management, friend connections, friend suggestions, and degree-of-separation queries. I have implemented this using graphs to represent the social network and AVL trees to efficiently manage user posts, focusing on data structures and algorithmic design.
+  
+- [My portfolio](https://github.com/monisha8878/My-Portfolio.git) : My personal portfolio website where I share my projects, interests, and journey in tech.
+Built with HTML and CSS and continuously evolving as I learn frontend development.
+[Live site](https://monisha8878.github.io/My-Portfolio/) : Check out the website here!
+
 - [Degree Planner](https://github.com/monisha8878/Degree-Planner.git) :  Currently working on the backend of this project.
 Handles course structures, constraints, and planning logic behind the scenes.
 
