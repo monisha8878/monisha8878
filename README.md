@@ -5,8 +5,10 @@
 ---
 
 ###  About Me
-EE student at IIT Delhi, learning my way around programming and computer science.
+
+ I am an Electrical Engineering student at IIT Delhi, learning my way around programming and tech.
 I enjoy building things, breaking them (sometimes🤧), and understanding what’s really happening behind the scenes✨. Here are all the projects as I learn various aspects of Tech- some which I am proud of , some which need major refinement, basically all the stuff I have learnt and am working on right now!
+
 ---
 
 ###  Projects & Repositories
