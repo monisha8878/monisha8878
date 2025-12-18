@@ -5,13 +5,13 @@
 ---
 
 ###  About Me
-  I'm currently pursuing a Bachelor's in Electrical Engineering at IIT Delhi. I have a strong interest in programming and computer science and I enjoy turning logic into code and learning how things work under the hood.
-
+EE student at IIT Delhi, learning my way around programming and computer science.
+I enjoy building things, breaking them (sometimes🤧), and understanding what’s really happening behind the scenes✨. Here are all the projects as I learn various aspects of Tech- some which I am proud of , some which need major refinement, basically all the stuff I have learnt and am working on right now!
 ---
 
 ###  Projects & Repositories
 
-Here are some of the things I'm working on:
+Here are some of my projects and repositories- 
 
 -  [C++ Fundamentals](https://github.com/monisha8878/Projects-CPP.git): Beginner-friendly codebase covering everything from variables to OOP.
 
@@ -30,6 +30,7 @@ Handles course structures, constraints, and planning logic behind the scenes.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+
 
 
 ---
